@@ -1,22 +1,14 @@
-merhaba ben ali githuba yeni katıldım ve githubu kullanmak istiyorum bunun yani sira öğrenmem lazim bu sebeble github deposu oluşturdum ilk github projelerim burada yer alacak bu arada Junior Developerim
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+merhaba ben ali
+githuba yeni katıldım
+ve githubu kullanmak
+istiyorum 
+bunun yani sira öğrenmem 
+lazim 
+bu sebeble
+github deposu oluşturdum 
+ilk github projelerim 
+burada yer alacak 
+bu arada Junior Developerim
 
 # Introduction to GitHub
 
